@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jxl">
+    <CLASSES>
+      <root url="jar://G:/对excel文件操作要用到的jar/jxl.jar!/" />
+      <root url="jar://G:/对excel文件操作要用到的jar/poi-3.17.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

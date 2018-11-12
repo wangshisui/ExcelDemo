@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<persons>
+    <person id="0"><username>username</username><password>password</password></person>
+    <person id="1"><username>zhangsan</username><password>11111111</password></person>
+	  <person id="2"><username>lisi</username><password>2222222</password></person>
+    <person id="3"><username>wangwu</username><password>33333</password></person>
+	  <person id="4"><username>zhaoliu</username><password>44444</password></person>
+    <person id="5"><username>liqi</username><password>55555</password></person>
+	  <person id="6"><username>hanba</username><password>66666</password></person>
+    <person id="7"><username>tanjiu</username><password>7777777</password></person>
+</persons>
